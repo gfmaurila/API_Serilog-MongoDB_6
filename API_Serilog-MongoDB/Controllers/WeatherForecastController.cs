@@ -21,7 +21,8 @@ namespace API_Serilog_MongoDB.Controllers
         {
             try
             {
-                return new string[] { "value1", "value2" };
+                _logger.LogInformation("Request Info - API Logs");
+                return Ok(new string[] { "value1", "value2" });
             }
             catch (Exception ex)
             {

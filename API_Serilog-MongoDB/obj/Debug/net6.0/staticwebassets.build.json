@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UWqsVW9zC+yXaXhSJFQDBLya1UCIAm2onT1i6ACPzQ0=",
+  "Source": "API_Serilog-MongoDB",
+  "BasePath": "_content/API_Serilog-MongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

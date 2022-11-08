@@ -1,0 +1,16 @@
+﻿
+
+
+PM> Update-Package 
+
+Serilog: https://serilog.net/
+Serilog AspNetCore: https://github.com/serilog/serilog-aspnetcore
+Serilog MongoDB: https://github.com/ChangemakerStudios/serilog-sinks-mongodb
+
+
+----
+https://www.youtube.com/watch?v=krkfPs9ycsc
+
+
+
+
